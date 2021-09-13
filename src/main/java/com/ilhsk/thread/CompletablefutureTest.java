@@ -8,7 +8,7 @@
  * @Since 2021. 9. 9.
  * @Copyright Copyright (c) 2021 NetmarbleNeo, Corp. All Rights Reserved.
  */
-package com.ilhsk.thread;
+package com.ilhsk.future;
 
 import java.util.concurrent.CompletableFuture;
 
