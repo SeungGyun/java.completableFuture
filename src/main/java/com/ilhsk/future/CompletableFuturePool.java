@@ -1,13 +1,4 @@
-/**
- * @File CompletableFuturePool.java
- * @package com.ilhsk.thread
- * @Description 
- * @Modification Information
- * @ProjectName  NetmarbleNeo Project
- * @Author ilhsk
- * @Since 2021. 9. 10.
- * @Copyright Copyright (c) 2021 NetmarbleNeo, Corp. All Rights Reserved.
- */
+
 package com.ilhsk.future;
 
 import java.util.ArrayList;
